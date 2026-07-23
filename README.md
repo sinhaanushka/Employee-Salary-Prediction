@@ -35,12 +35,11 @@ This project was developed to strengthen practical Machine Learning skills while
 > Add screenshots here after deployment.
 
 ### Home Page
-
-![Home](images/home.png)
+Home.png
 
 ### Prediction Result
 
-![Prediction](images/result.png)
+prediction.png
 
 ---
 
@@ -194,10 +193,8 @@ Employee_Salary_Prediction/
 ├── salaries.csv
 ├── requirements.txt
 ├── README.md
-│
-├── images/
-│   ├── home.png
-│   └── result.png
+|── Home.png
+|── prediction.png
 │
 └── .gitignore
 ```
