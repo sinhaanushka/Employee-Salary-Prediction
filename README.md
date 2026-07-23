@@ -209,7 +209,7 @@ Employee_Salary_Prediction/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Employee-Salary-Prediction.git
+git clone https://github.com/sinhaanushka/Employee-Salary-Prediction.git
 ```
 
 Go to project directory
@@ -265,18 +265,6 @@ $158,000 per year
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome!
-
-If you'd like to improve this project:
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Open a Pull Request
-
----
 
 # 👩‍💻 Developer
 
@@ -286,9 +274,9 @@ B.Tech CSE (AI & ML)
 
 Passionate about Artificial Intelligence, Machine Learning, Data Science and Open Source.
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/sinhaanushka
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/anushka-sinha-581126323/
 
 ---
 
@@ -296,7 +284,7 @@ LinkedIn: https://linkedin.com/in/yourprofile
 
 If you found this project useful,
 
-⭐ Star this repository
+⭐ Star of this repository
 
 It motivates me to build more AI & Machine Learning projects.
 
