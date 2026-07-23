@@ -35,11 +35,11 @@ This project was developed to strengthen practical Machine Learning skills while
 > Add screenshots here after deployment.
 
 ### Home Page
-Home.png
+![Home Page](Home.png)
 
 ### Prediction Result
 
-prediction.png
+![Prediction Result](prediction.png)
 
 ---
 
