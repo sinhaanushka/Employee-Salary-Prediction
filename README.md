@@ -24,15 +24,8 @@ This project was developed to strengthen practical Machine Learning skills while
 
 ## 🚀 Live Demo
 
-🔗 **Coming Soon**
-
-(Deploy using Streamlit Community Cloud)
-
+https://employee-salary-prediction-jaqkmvxdvxwdissuhaqwye.streamlit.app/
 ---
-
-## 📷 Application Preview
-
-> Add screenshots here after deployment.
 
 ### Home Page
 ![Home Page](Home.png)
